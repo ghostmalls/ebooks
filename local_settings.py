@@ -9,8 +9,8 @@ ENABLE_TWITTER_SOURCES = True # Fetch twitter statuses as source
 ENABLE_TWITTER_POSTING = True # Tweet resulting status?
 MY_CONSUMER_KEY = 'lZ62tI9NIgY3rFjBGzYDzdrii' #Your Twitter API Consumer Key
 MY_CONSUMER_SECRET = '0UMQYAzjD8t56eXTRN6LMrMJxkfex1fKGI4gosBFtgnwQ9nKhN' #Your Consumer Secret Key
-MY_ACCESS_TOKEN_KEY = '4720135352-6TfOK5PvniFD2BitOc3CVyddaMJk7o2stgABqAC' #Your Twitter API Access Token Key
-MY_ACCESS_TOKEN_SECRET = 'uBxcP50aGdXBoD3zFvg2mzfbTh2Gpwe75EPhvyCgnRnob' #Your Access Token Secret
+MY_ACCESS_TOKEN_KEY = '4720135352-2Pd4gtdNkgVqM8kJUfujYI8i42Ojx31l8QzSDIt' #Your Twitter API Access Token Key
+MY_ACCESS_TOKEN_SECRET = 'ytBbRfwozGMSJjReyO6aUaKh86iZKzgL9Hnbjrg94w9hh' #Your Access Token Secret
 
 # Configuration for Mastodon API
 ENABLE_MASTODON_SOURCES = False # Fetch mastodon statuses as a source?
