@@ -1,3 +1,2 @@
 python-twitter
 beautifulsoup4
-python-3.7.3
